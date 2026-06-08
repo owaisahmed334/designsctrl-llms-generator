@@ -72,7 +72,7 @@ export default function Home() {
 
       <section className="mx-auto max-w-6xl px-5 pb-20">
         <div className="overflow-hidden rounded-[2rem] bg-slate-950 p-8 text-white shadow-premium md:p-12">
-          <div className="grid gap-8 md:grid-cols-[1.2fr_0.8fr] md:items-center">
+          <div className="grid gap-6 md:grid-cols-[1.2fr_0.8fr] md:items-center">
             <div>
               <p className="font-bold text-blue-300">Need help adding llms.txt to your website?</p>
               <h2 className="mt-3 text-3xl font-black md:text-4xl">Let DesignsCtrl make your website AI-ready.</h2>
@@ -80,7 +80,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-3 sm:flex-row md:justify-end">
               <a href="https://designsctrl.net/contact/" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-white px-5 py-4 font-bold text-slate-950 hover:bg-slate-100">Contact DesignsCtrl <ArrowRight size={18} /></a>
-              <a href="https://wa.me/923001234567" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-blue-600 px-5 py-4 font-bold text-white hover:bg-blue-500"><MessageCircle size={18} /> WhatsApp Us</a>
+              <a href="https://wa.me/923102119077" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-blue-600 px-5 py-4 font-bold text-white hover:bg-blue-500"><MessageCircle size={18} /> WhatsApp Us</a>
             </div>
           </div>
         </div>
