@@ -1,6 +1,3 @@
-const nextConfig = {
-  basePath: "/llmstxtgenerate",
-  assetPrefix: "/llmstxtgenerate",
-};
-
-export default nextConfig;
+git add next.config.mjs
+git commit -m "Fix Vercel base path"
+git push
